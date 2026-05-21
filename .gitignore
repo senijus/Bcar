@@ -1,0 +1,20 @@
+# MDK-ARM build artifacts
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+MDK-ARM/DebugConfig/
+*.uvguix.*
+
+# Common build outputs
+*.o
+*.d
+*.axf
+*.hex
+*.map
+*.htm
+*.lnp
+*.dep
+*.crf
+*.tra
+*.fed
+*.sct
+*.lst
